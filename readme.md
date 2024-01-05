@@ -18,3 +18,5 @@ Key concepts covered:
 
 Copy the source code from CodePen.
 Implement the JavaScript code so that when you hover your mouse over a colored ball, it gets bigger.
+
+![Alt text](image.png)
